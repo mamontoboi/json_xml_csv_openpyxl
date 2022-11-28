@@ -1,0 +1,2395 @@
+<root start="all stated here">
+<course id="0">
+   <reg_num>10577</reg_num>
+   <subj>ANTH</subj>
+   <crse id="number">211</crse>
+   <sect>F01</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Introduction to Anthropology</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W</days>
+   <time>
+       <start_time>03:10PM</start_time>
+       <end_time>04:30</end_time>
+   </time>
+   <place>
+       <building condition="4">ELIOT</building>
+       <room>414</room>
+   </place>
+</course>
+
+<course id="1">
+   <reg_num>20573</reg_num>
+   <subj>ANTH</subj>
+   <crse id="number">344</crse>
+   <sect>S01</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Sex and Gender</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>10:30AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building condition="4">VOLLUM</building>
+       <room>120</room>
+   </place>
+</course>
+
+<course id="2">
+   <reg_num>10624</reg_num>
+   <subj>BIOL</subj>
+   <crse id="number">431</crse>
+   <sect>F01</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Field Biology of Amphibians</title>
+   <units>0.5</units>
+   <teacher>David Attenborough</teacher>
+   <days>T</days>
+   <time>
+       <start_time>06:10PM</start_time>
+       <end_time>08:00</end_time>
+   </time>
+   <place>
+       <building condition="3">PHYSIC</building>
+       <room>240A</room>
+   </place>
+</course>
+
+<course id="3">
+   <reg_num>10626</reg_num>
+   <subj>BIOL</subj>
+   <crse id="number">431</crse>
+   <sect>F03</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">Bacterial Pathogenesis</title>
+   <units>0.5</units>
+   <teacher>David Attenborough</teacher>
+   <days />
+   <time>
+       <start_time />
+       <end_time />
+   </time>
+   <place>
+       <building condition="2" />
+       <room>Mellies         RESCHEDULED TO OTHER SEMESTER</room>
+   </place>
+</course>
+
+<course id="4">
+   <reg_num>20626</reg_num>
+   <subj>BIOL</subj>
+   <crse id="number">431</crse>
+   <sect>S04</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Seminar in Biology</title>
+   <units>0.5</units>
+   <teacher>David Attenborough</teacher>
+   <days>Th</days>
+   <time>
+       <start_time>06:10PM</start_time>
+       <end_time>08:00</end_time>
+   </time>
+   <place>
+       <building condition="4">BIOL</building>
+       <room>200A</room>
+   </place>
+</course>
+
+<course id="5">
+   <reg_num>10543</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">101</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">MolecularStructure and Properties</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>11:00AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building condition="4">VOLLUM</building>
+       <room>VLH</room>
+   </place>
+</course>
+
+<course id="6">
+   <reg_num>10544</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">101</crse>
+   <sect>F01</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>02:00</end_time>
+   </time>
+   <place>
+       <building condition="4">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="7">
+   <reg_num>10545</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">101</crse>
+   <sect>F02</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M</days>
+   <time>
+       <start_time>02:10PM</start_time>
+       <end_time>03:00</end_time>
+   </time>
+   <place>
+       <building condition="4">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="8">
+   <reg_num>10546</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">101</crse>
+   <sect>F03</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M</days>
+   <time>
+       <start_time>03:10PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building condition="1">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="9">
+   <reg_num>10789</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">101</crse>
+   <sect>F08</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T</days>
+   <time>
+       <start_time>11:00AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building condition="4">PHYSIC</building>
+       <room>123</room>
+   </place>
+</course>
+
+<course id="10">
+   <reg_num>10547</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">101</crse>
+   <sect>F04</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>02:00</end_time>
+   </time>
+   <place>
+       <building condition="3">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="11">
+   <reg_num>10548</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">101</crse>
+   <sect>F05</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T</days>
+   <time>
+       <start_time>02:10PM</start_time>
+       <end_time>03:00</end_time>
+   </time>
+   <place>
+       <building condition="3">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="12">
+   <reg_num>20575</reg_num>
+   <subj>ANTH</subj>
+   <crse id="number">344</crse>
+   <sect>S02</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">Sex and Gender</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>02:30</end_time>
+   </time>
+   <place>
+       <building condition="2">VOLLUM</building>
+       <room>110</room>
+   </place>
+</course>
+
+<course id="13">
+   <reg_num>10549</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">101</crse>
+   <sect>F06</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T</days>
+   <time>
+       <start_time>03:10PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building condition="1">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="14">
+   <reg_num>10550</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">101</crse>
+   <sect>F07</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T</days>
+   <time>
+       <start_time>04:10PM</start_time>
+       <end_time>05:00</end_time>
+   </time>
+   <place>
+       <building condition="3">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="15">
+   <reg_num>10551</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">101</crse>
+   <sect>FL1</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building condition="3">CHEM</building>
+       <room>308</room>
+   </place>
+</course>
+
+<course id="16">
+   <reg_num>10555</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">101</crse>
+   <sect>FL5</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T</days>
+   <time>
+       <start_time>09:00AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building condition="1">CHEM</building>
+       <room>308</room>
+   </place>
+</course>
+
+<course id="17">
+   <reg_num>10552</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">101</crse>
+   <sect>FL2</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building condition="3">CHEM</building>
+       <room>308</room>
+   </place>
+</course>
+
+<course id="18">
+   <reg_num>10553</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">101</crse>
+   <sect>FL3</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>W</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building condition="1">CHEM</building>
+       <room>308</room>
+   </place>
+</course>
+
+<course id="19">
+   <reg_num>10557</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">101</crse>
+   <sect>FL7</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>W</days>
+   <time>
+       <start_time>06:10PM</start_time>
+       <end_time>09:00</end_time>
+   </time>
+   <place>
+       <building condition="1">CHEM</building>
+       <room>308</room>
+   </place>
+</course>
+
+<course id="20">
+   <reg_num>10556</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">101</crse>
+   <sect>FL6</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>Th</days>
+   <time>
+       <start_time>09:00AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building condition="4">CHEM</building>
+       <room>308</room>
+   </place>
+</course>
+
+<course id="21">
+   <reg_num>10554</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">101</crse>
+   <sect>FL4</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>Th</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building condition="3">CHEM</building>
+       <room>308</room>
+   </place>
+</course>
+
+<course id="22">
+   <reg_num>10558</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">101</crse>
+   <sect>FL8</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>F</days>
+   <time>
+       <start_time>02:10PM</start_time>
+       <end_time>05:00</end_time>
+   </time>
+   <place>
+       <building condition="4">CHEM</building>
+       <room>308</room>
+   </place>
+</course>
+
+<course id="23">
+   <reg_num>20483</reg_num>
+   <subj>ANTH</subj>
+   <crse id="number">348</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">Languages the Americas:Mayan</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T</days>
+   <time>
+       <start_time>06:10PM</start_time>
+       <end_time>09:00</end_time>
+   </time>
+   <place>
+       <building condition="1">ELIOT</building>
+       <room>419</room>
+   </place>
+</course>
+
+<course id="24">
+   <reg_num>20537</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">102</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Chemical Reactivity</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>11:00AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building condition="2">VOLLUM</building>
+       <room>VLH</room>
+   </place>
+</course>
+
+<course id="25">
+   <reg_num>20538</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">102</crse>
+   <sect>S01</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Chemical Reactivity</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M</days>
+   <time>
+       <start_time>02:10PM</start_time>
+       <end_time>03:00</end_time>
+   </time>
+   <place>
+       <building condition="5">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="26">
+   <reg_num>20539</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">102</crse>
+   <sect>S02</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Chemical Reactivity</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M</days>
+   <time>
+       <start_time>03:10PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building condition="5">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="27">
+   <reg_num>20540</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">102</crse>
+   <sect>S03</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">Chemical Reactivity</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T</days>
+   <time>
+       <start_time>02:10PM</start_time>
+       <end_time>03:00</end_time>
+   </time>
+   <place>
+       <building condition="4">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="28">
+   <reg_num>20541</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">102</crse>
+   <sect>S04</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Chemical Reactivity</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T</days>
+   <time>
+       <start_time>03:10PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building condition="4">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="29">
+   <reg_num>20542</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">102</crse>
+   <sect>S05</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Chemical Reactivity</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T</days>
+   <time>
+       <start_time>04:10PM</start_time>
+       <end_time>05:00</end_time>
+   </time>
+   <place>
+       <building condition="4">PHYSIC</building>
+       <room>123</room>
+   </place>
+</course>
+
+<course id="30">
+   <reg_num>20543</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">102</crse>
+   <sect>SL1</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Chemical Reactivity</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building condition="2">CHEM</building>
+       <room>308</room>
+   </place>
+</course>
+
+<course id="31">
+   <reg_num>20544</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">102</crse>
+   <sect>SL2</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">Chemical Reactivity</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building condition="2">CHEM</building>
+       <room>308</room>
+   </place>
+</course>
+
+<course id="32">
+   <reg_num>20545</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">102</crse>
+   <sect>SL3</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Chemical Reactivity</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>W</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building condition="5">CHEM</building>
+       <room>308</room>
+   </place>
+</course>
+
+<course id="33">
+   <reg_num>20546</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">102</crse>
+   <sect>SL4</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Chemical Reactivity</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>Th</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building condition="1">CHEM</building>
+       <room>308</room>
+   </place>
+</course>
+
+<course id="34">
+   <reg_num>20667</reg_num>
+   <subj>ANTH</subj>
+   <crse id="number">352</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">Anthropology of Europe</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>10:30AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building condition="3">LIB</building>
+       <room>203</room>
+   </place>
+</course>
+
+<course id="35">
+   <reg_num>20547</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">102</crse>
+   <sect>SL5</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Chemical Reactivity</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>F</days>
+   <time>
+       <start_time>02:10PM</start_time>
+       <end_time>05:00</end_time>
+   </time>
+   <place>
+       <building condition="4">CHEM</building>
+       <room>308</room>
+   </place>
+</course>
+
+<course id="36">
+   <reg_num>10559</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">201</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">Organic Chemistry I</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>09:00AM</start_time>
+       <end_time>09:50</end_time>
+   </time>
+   <place>
+       <building condition="2">PSYCH</building>
+       <room>105</room>
+   </place>
+</course>
+
+<course id="37">
+   <reg_num>10560</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">201</crse>
+   <sect>F01</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">Organic Chemistry I</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>Th</days>
+   <time>
+       <start_time>08:00AM</start_time>
+       <end_time>08:50</end_time>
+   </time>
+   <place>
+       <building condition="1">PHYSIC</building>
+       <room>123</room>
+   </place>
+</course>
+
+<course id="38">
+   <reg_num>10561</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">201</crse>
+   <sect>F02</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">Organic Chemistry I</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>Th</days>
+   <time>
+       <start_time>09:00AM</start_time>
+       <end_time>09:50</end_time>
+   </time>
+   <place>
+       <building condition="2">PHYSIC</building>
+       <room>121</room>
+   </place>
+</course>
+
+<course id="39">
+   <reg_num>10562</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">201</crse>
+   <sect>F03</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">Organic Chemistry I</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>Th</days>
+   <time>
+       <start_time>11:00AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building condition="2">PHYSIC</building>
+       <room>123</room>
+   </place>
+</course>
+
+<course id="40">
+   <reg_num>10563</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">201</crse>
+   <sect>F04</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">Organic Chemistry I</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>Th</days>
+   <time>
+       <start_time>12:00PM</start_time>
+       <end_time>12:50</end_time>
+   </time>
+   <place>
+       <building condition="2">PHYSIC</building>
+       <room>123</room>
+   </place>
+</course>
+
+<course id="41">
+   <reg_num>10565</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">201</crse>
+   <sect>FL1</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Organic Chemistry I</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>05:00</end_time>
+   </time>
+   <place>
+       <building condition="2">CHEM</building>
+       <room>209</room>
+   </place>
+</course>
+
+<course id="42">
+   <reg_num>10566</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">201</crse>
+   <sect>FL2</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Organic Chemistry I</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>05:00</end_time>
+   </time>
+   <place>
+       <building condition="3">CHEM</building>
+       <room>209</room>
+   </place>
+</course>
+
+<course id="43">
+   <reg_num>10567</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">201</crse>
+   <sect>FL3</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">Organic Chemistry I</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>W</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>05:00</end_time>
+   </time>
+   <place>
+       <building condition="2">CHEM</building>
+       <room>209</room>
+   </place>
+</course>
+
+<course id="44">
+   <reg_num>20548</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">202</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Organic Chemistry II</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>09:00AM</start_time>
+       <end_time>09:50</end_time>
+   </time>
+   <place>
+       <building condition="4">PSYCH</building>
+       <room>105</room>
+   </place>
+</course>
+
+<course id="45">
+   <reg_num>20571</reg_num>
+   <subj>ANTH</subj>
+   <crse id="number">357</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Prob in IndonesianEthnography</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>02:40PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building condition="4">VOLLUM</building>
+       <room>309</room>
+   </place>
+</course>
+
+<course id="46">
+   <reg_num>20549</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">202</crse>
+   <sect>S01</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">Organic Chemistry II</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>Th</days>
+   <time>
+       <start_time>08:00AM</start_time>
+       <end_time>08:50</end_time>
+   </time>
+   <place>
+       <building condition="5">PHYSIC</building>
+       <room>123</room>
+   </place>
+</course>
+
+<course id="47">
+   <reg_num>20550</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">202</crse>
+   <sect>S02</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Organic Chemistry II</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>Th</days>
+   <time>
+       <start_time>09:00AM</start_time>
+       <end_time>09:50</end_time>
+   </time>
+   <place>
+       <building condition="5">PHYSIC</building>
+       <room>121</room>
+   </place>
+</course>
+
+<course id="48">
+   <reg_num>20551</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">202</crse>
+   <sect>S03</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">Organic Chemistry II</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>Th</days>
+   <time>
+       <start_time>11:00AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building condition="1">PHYSIC</building>
+       <room>121</room>
+   </place>
+</course>
+
+<course id="49">
+   <reg_num>20552</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">202</crse>
+   <sect>S04</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Organic Chemistry II</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>Th</days>
+   <time>
+       <start_time>12:00PM</start_time>
+       <end_time>12:50</end_time>
+   </time>
+   <place>
+       <building condition="2">PHYSIC</building>
+       <room>123</room>
+   </place>
+</course>
+
+<course id="50">
+   <reg_num>20554</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">202</crse>
+   <sect>SL1</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">Organic Chemistry II</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>05:00</end_time>
+   </time>
+   <place>
+       <building condition="4">CHEM</building>
+       <room>209</room>
+   </place>
+</course>
+
+<course id="51">
+   <reg_num>20555</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">202</crse>
+   <sect>SL2</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Organic Chemistry II</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>05:00</end_time>
+   </time>
+   <place>
+       <building condition="3">CHEM</building>
+       <room>209</room>
+   </place>
+</course>
+
+<course id="52">
+   <reg_num>20556</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">202</crse>
+   <sect>SL3</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Organic Chemistry II</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>W</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>05:00</end_time>
+   </time>
+   <place>
+       <building condition="4">CHEM</building>
+       <room>209</room>
+   </place>
+</course>
+
+<course id="53">
+   <reg_num>20557</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">212</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">Intro Inorganic Chemistry</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>11:00AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building condition="4">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="54">
+   <reg_num>20559</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">212</crse>
+   <sect>SL1</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Intro Inorganic Chemistry</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>W</days>
+   <time>
+       <start_time>02:10PM</start_time>
+       <end_time>05:00</end_time>
+   </time>
+   <place>
+       <building condition="5">CHEM</building>
+       <room>214</room>
+   </place>
+</course>
+
+<course id="55">
+   <reg_num>20560</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">212</crse>
+   <sect>SL2</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Intro Inorganic Chemistry</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>F</days>
+   <time>
+       <start_time>02:10PM</start_time>
+       <end_time>05:00</end_time>
+   </time>
+   <place>
+       <building condition="4">CHEM</building>
+       <room>214</room>
+   </place>
+</course>
+
+<course id="56">
+   <reg_num>10605</reg_num>
+   <subj>ANTH</subj>
+   <crse id="number">362</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Gender and Ethnicity China, Tibet</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>10:30AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building condition="4">VOLLUM</building>
+       <room>228</room>
+   </place>
+</course>
+
+<course id="57">
+   <reg_num>10582</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">225</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Environmental Chemistry</title>
+   <units>0.5</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W</days>
+   <time>
+       <start_time>10:00AM</start_time>
+       <end_time>10:50</end_time>
+   </time>
+   <place>
+       <building condition="1">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="58">
+   <reg_num>10568</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">271</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">Analytical Chemistry</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>10:30AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building condition="5">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="59">
+   <reg_num>10569</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">271</crse>
+   <sect>FL1</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">Analytical Chemistry</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>Th</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>05:00</end_time>
+   </time>
+   <place>
+       <building condition="5">CHEM</building>
+       <room>313</room>
+   </place>
+</course>
+
+<course id="60">
+   <reg_num>10570</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">271</crse>
+   <sect>FL2</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">Analytical Chemistry</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>F</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>05:00</end_time>
+   </time>
+   <place>
+       <building condition="3">CHEM</building>
+       <room>313</room>
+   </place>
+</course>
+
+<course id="61">
+   <reg_num>20561</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">316</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">Physical Chemistry Laboratory</title>
+   <units>0.5</units>
+   <teacher>David Attenborough</teacher>
+   <days>T</days>
+   <time>
+       <start_time>10:30AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building condition="5">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="62">
+   <reg_num>20563</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">324</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Computational Organic Chem</title>
+   <units>0.5</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>10:00AM</start_time>
+       <end_time>10:50</end_time>
+   </time>
+   <place>
+       <building condition="4">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="63">
+   <reg_num>20564</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">332</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Statistical Thermodynamics</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>09:00AM</start_time>
+       <end_time>09:50</end_time>
+   </time>
+   <place>
+       <building condition="1">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="64">
+   <reg_num>10571</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">333</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">Quantum Mechanics  and  MolStruct</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>09:00AM</start_time>
+       <end_time>09:50</end_time>
+   </time>
+   <place>
+       <building condition="5">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="65">
+   <reg_num>20565</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">334</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">Advanced Inorganic Chemistry</title>
+   <units>0.5</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>09:00AM</start_time>
+       <end_time>10:20</end_time>
+   </time>
+   <place>
+       <building condition="3">PSYCH</building>
+       <room>103</room>
+   </place>
+</course>
+
+<course id="66">
+   <reg_num>10572</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">343</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">Adv Synth Organic Chemistry</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>11:00AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building condition="4">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="67">
+   <reg_num>20570</reg_num>
+   <subj>ANTH</subj>
+   <crse id="number">368</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Myth</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>02:30</end_time>
+   </time>
+   <place>
+       <building condition="2">VOLLUM</building>
+       <room>126</room>
+   </place>
+</course>
+
+<course id="68">
+   <reg_num>10574</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">391</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">Structural Biochemistry</title>
+   <units>0.5</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>09:00AM</start_time>
+       <end_time>10:20</end_time>
+   </time>
+   <place>
+       <building condition="3">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="69">
+   <reg_num>10576</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">391</crse>
+   <sect>F02</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">Structural Biochemistry</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>W</days>
+   <time>
+       <start_time>04:10PM</start_time>
+       <end_time>05:00</end_time>
+   </time>
+   <place>
+       <building condition="3">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="70">
+   <reg_num>10575</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">391</crse>
+   <sect>F01</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">Structural Biochemistry</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T</days>
+   <time>
+       <start_time>04:10PM</start_time>
+       <end_time>05:00</end_time>
+   </time>
+   <place>
+       <building condition="4">PHYSIC</building>
+       <room>121</room>
+   </place>
+</course>
+
+<course id="71">
+   <reg_num>20566</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">392</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">Metabolic Biochemistry</title>
+   <units>0.5</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>09:00AM</start_time>
+       <end_time>10:20</end_time>
+   </time>
+   <place>
+       <building condition="5">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="72">
+   <reg_num>20567</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">394</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">Biochemical Methods</title>
+   <units>0.5</units>
+   <teacher>David Attenborough</teacher>
+   <days>M</days>
+   <time>
+       <start_time>06:10PM</start_time>
+       <end_time>07:00</end_time>
+   </time>
+   <place>
+       <building condition="1">CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+
+<course id="73">
+   <reg_num>20568</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">394</crse>
+   <sect>SL1</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Biochemical Methods</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>05:00</end_time>
+   </time>
+   <place>
+       <building condition="1">CHEM</building>
+       <room>313</room>
+   </place>
+</course>
+
+<course id="74">
+   <reg_num>20569</reg_num>
+   <subj>CHEM</subj>
+   <crse id="number">394</crse>
+   <sect>SL2</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">Biochemical Methods</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>W</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>05:00</end_time>
+   </time>
+   <place>
+       <building condition="5">CHEM</building>
+       <room>313</room>
+   </place>
+</course>
+
+<course id="75">
+   <reg_num>10377</reg_num>
+   <subj>CHIN</subj>
+   <crse id="number">110</crse>
+   <sect>Y</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">First Year Chinese</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days />
+   <time>
+       <start_time />
+       <end_time />
+   </time>
+   <place>
+       <building condition="4" />
+       <room>Staff           M-T-W-Th-F12:00     VOLLUM  120</room>
+   </place>
+</course>
+
+<course id="76">
+   <reg_num>10118</reg_num>
+   <subj>CHIN</subj>
+   <crse id="number">210</crse>
+   <sect>Y</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">Second Year Chinese</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days />
+   <time>
+       <start_time />
+       <end_time />
+   </time>
+   <place>
+       <building condition="5" />
+       <room>Staff           M-T-W-Th-F12:00     ELIOT   123</room>
+   </place>
+</course>
+
+<course id="77">
+   <reg_num>20598</reg_num>
+   <subj>CHIN</subj>
+   <crse id="number">311</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Third Year Chinese</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>09:00AM</start_time>
+       <end_time>09:50</end_time>
+   </time>
+   <place>
+       <building condition="5">ELIOT</building>
+       <room>121</room>
+   </place>
+</course>
+
+<course id="78">
+   <reg_num>20572</reg_num>
+   <subj>ANTH</subj>
+   <crse id="number">369</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Media  and  Culture Post-MaoChina</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W</days>
+   <time>
+       <start_time>03:10PM</start_time>
+       <end_time>04:30</end_time>
+   </time>
+   <place>
+       <building condition="5">ELIOT</building>
+       <room>414</room>
+   </place>
+</course>
+
+<course id="79">
+   <reg_num>10629</reg_num>
+   <subj>CHIN</subj>
+   <crse id="number">316</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Classical Chinese</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>09:00AM</start_time>
+       <end_time>09:50</end_time>
+   </time>
+   <place>
+       <building condition="5">ELIOT</building>
+       <room>121</room>
+   </place>
+</course>
+
+<course id="80">
+   <reg_num>10628</reg_num>
+   <subj>CHIN</subj>
+   <crse id="number">321</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">20 Cent Chin Fiction, 1919-49</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>02:40PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building condition="1">ELIOT</building>
+       <room>121</room>
+   </place>
+</course>
+
+<course id="81">
+   <reg_num>10630</reg_num>
+   <subj>CHIN</subj>
+   <crse id="number">326</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">Chinese Narrative Tradition</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W</days>
+   <time>
+       <start_time>03:10PM</start_time>
+       <end_time>04:30</end_time>
+   </time>
+   <place>
+       <building condition="3">ELIOT</building>
+       <room>121</room>
+   </place>
+</course>
+
+<course id="82">
+   <reg_num>20596</reg_num>
+   <subj>CHIN</subj>
+   <crse id="number">334</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">Yijing: Text and Tradition</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W</days>
+   <time>
+       <start_time>03:10PM</start_time>
+       <end_time>04:30</end_time>
+   </time>
+   <place>
+       <building condition="5">ELIOT</building>
+       <room>121</room>
+   </place>
+</course>
+
+<course id="83">
+   <reg_num>20601</reg_num>
+   <subj>CHIN</subj>
+   <crse id="number">341</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">20th Century Chinese Poetry</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>02:40PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building condition="5">ELIOT</building>
+       <room>121</room>
+   </place>
+</course>
+
+<course id="84">
+   <reg_num>20486</reg_num>
+   <subj>CLAS</subj>
+   <crse id="number">363</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">Greek Tragedy</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>12:00PM</start_time>
+       <end_time>12:50</end_time>
+   </time>
+   <place>
+       <building condition="4">VOLLUM</building>
+       <room>126</room>
+   </place>
+</course>
+
+<course id="85">
+   <reg_num>10489</reg_num>
+   <subj>CLAS</subj>
+   <crse id="number">373</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">Ancient History: Rome</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W</days>
+   <time>
+       <start_time>03:10PM</start_time>
+       <end_time>04:30</end_time>
+   </time>
+   <place>
+       <building condition="4">VOLLUM</building>
+       <room>120</room>
+   </place>
+</course>
+
+<course id="86">
+   <reg_num>20488</reg_num>
+   <subj>CLAS</subj>
+   <crse id="number">374</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">Specl Topics in Roman History</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W</days>
+   <time>
+       <start_time>03:10PM</start_time>
+       <end_time>04:30</end_time>
+   </time>
+   <place>
+       <building condition="3">VOLLUM</building>
+       <room>120</room>
+   </place>
+</course>
+
+<course id="87">
+   <reg_num>20503</reg_num>
+   <subj>CRWR</subj>
+   <crse id="number">201</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Intro to Creative Writing</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>11:00AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building condition="4">PHYSIC</building>
+       <room>121</room>
+   </place>
+</course>
+
+<course id="88">
+   <reg_num>10515</reg_num>
+   <subj>CRWR</subj>
+   <crse id="number">211</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">Intro Poetry Writing</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W</days>
+   <time>
+       <start_time>03:10PM</start_time>
+       <end_time>04:30</end_time>
+   </time>
+   <place>
+       <building condition="5">PHYSIC</building>
+       <room>121</room>
+   </place>
+</course>
+
+<course id="89">
+   <reg_num>20659</reg_num>
+   <subj>ANTH</subj>
+   <crse id="number">372</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">Indians  and  Northrn NativeAmers</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W</days>
+   <time>
+       <start_time>03:10PM</start_time>
+       <end_time>04:30</end_time>
+   </time>
+   <place>
+       <building condition="2">TBA</building>
+       <room />
+   </place>
+</course>
+
+<course id="90">
+   <reg_num>20504</reg_num>
+   <subj>CRWR</subj>
+   <crse id="number">211</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">Intro Poetry Writing</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W</days>
+   <time>
+       <start_time>03:10PM</start_time>
+       <end_time>04:30</end_time>
+   </time>
+   <place>
+       <building condition="4">PHYSIC</building>
+       <room>121</room>
+   </place>
+</course>
+
+<course id="91">
+   <reg_num>10516</reg_num>
+   <subj>CRWR</subj>
+   <crse id="number">221</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">Intro to Fiction Writing</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>11:00AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building condition="1">PHYSIC</building>
+       <room>121</room>
+   </place>
+</course>
+
+<course id="92">
+   <reg_num>20642</reg_num>
+   <subj>CRWR</subj>
+   <crse id="number">241</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">Intermediate Poetry: StudioII</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>02:40PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building condition="2">PHYSIC</building>
+       <room>121</room>
+   </place>
+</course>
+
+<course id="93">
+   <reg_num>10517</reg_num>
+   <subj>CRWR</subj>
+   <crse id="number">250</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">Intro to ScreenwritingWrkshop</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>W</days>
+   <time>
+       <start_time>06:10PM</start_time>
+       <end_time>09:00</end_time>
+   </time>
+   <place>
+       <building condition="3">VOLLUM</building>
+       <room>228</room>
+   </place>
+</course>
+
+<course id="94">
+   <reg_num>10518</reg_num>
+   <subj>CRWR</subj>
+   <crse id="number">331</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">Adv Poet Writng: SequentVoice</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T</days>
+   <time>
+       <start_time>07:10PM</start_time>
+       <end_time>10:00</end_time>
+   </time>
+   <place>
+       <building condition="4">VOLLUM</building>
+       <room>234</room>
+   </place>
+</course>
+
+<course id="95">
+   <reg_num>20506</reg_num>
+   <subj>CRWR</subj>
+   <crse id="number">331</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Adv Poet Writing:NaturalVoice</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M</days>
+   <time>
+       <start_time>07:10PM</start_time>
+       <end_time>10:00</end_time>
+   </time>
+   <place>
+       <building condition="4">VOLLUM</building>
+       <room>234</room>
+   </place>
+</course>
+
+<course id="96">
+   <reg_num>10519</reg_num>
+   <subj>CRWR</subj>
+   <crse id="number">332</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">Advanced Fiction Writing</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>06:10PM</start_time>
+       <end_time>07:30</end_time>
+   </time>
+   <place>
+       <building condition="4">ELIOT</building>
+       <room>317</room>
+   </place>
+</course>
+
+<course id="97">
+   <reg_num>20507</reg_num>
+   <subj>CRWR</subj>
+   <crse id="number">332</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">Advanced Fiction Writing</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>06:10PM</start_time>
+       <end_time>07:30</end_time>
+   </time>
+   <place>
+       <building condition="1">ELIOT</building>
+       <room>405</room>
+   </place>
+</course>
+
+<course id="98">
+   <reg_num>10119</reg_num>
+   <subj>DANC</subj>
+   <crse id="number">110</crse>
+   <sect>Y</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Basic Technique</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W</days>
+   <time>
+       <start_time>04:40PM</start_time>
+       <end_time>06:00</end_time>
+   </time>
+   <place>
+       <building condition="3">SPORTS</building>
+       <room>GYMII</room>
+   </place>
+</course>
+
+<course id="99">
+   <reg_num>10121</reg_num>
+   <subj>DANC</subj>
+   <crse id="number">210</crse>
+   <sect>Y</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Technique, Design  and Compostion</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>02:30</end_time>
+   </time>
+   <place>
+       <building condition="4">SPORTS</building>
+       <room>GYMII</room>
+   </place>
+</course>
+
+<course id="100">
+   <reg_num>20672</reg_num>
+   <subj>ANTH</subj>
+   <crse id="number">374</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">Urban Anthropology</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>09:00AM</start_time>
+       <end_time>10:20</end_time>
+   </time>
+   <place>
+       <building condition="2">VOLLUM</building>
+       <room>120</room>
+   </place>
+</course>
+
+<course id="101">
+   <reg_num>20627</reg_num>
+   <subj>DANC</subj>
+   <crse id="number">252</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">Improvisation</title>
+   <units>0.5</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>05:10PM</start_time>
+       <end_time>06:30</end_time>
+   </time>
+   <place>
+       <building condition="5">SPORTS</building>
+       <room>GYMII</room>
+   </place>
+</course>
+
+<course id="102">
+   <reg_num>10639</reg_num>
+   <subj>DANC</subj>
+   <crse id="number">311</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Adv Techniques  and  CompositionI</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>05:10PM</start_time>
+       <end_time>06:30</end_time>
+   </time>
+   <place>
+       <building condition="5">SPORTS</building>
+       <room>GYMII</room>
+   </place>
+</course>
+
+<course id="103">
+   <reg_num>20655</reg_num>
+   <subj>DANC</subj>
+   <crse id="number">312</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">Adv Technique  and  CompositionII</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>02:40PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building condition="1">SPORTS</building>
+       <room>GYMII</room>
+   </place>
+</course>
+
+<course id="104">
+   <reg_num>10631</reg_num>
+   <subj>DANC</subj>
+   <crse id="number">330</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Dance Theory and Criticism</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W</days>
+   <time>
+       <start_time>03:10PM</start_time>
+       <end_time>04:30</end_time>
+   </time>
+   <place>
+       <building condition="3">ELIOT</building>
+       <room>126</room>
+   </place>
+</course>
+
+<course id="105">
+   <reg_num>10324</reg_num>
+   <subj>ECON</subj>
+   <crse id="number">201</crse>
+   <sect>F01</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Intro to Economic Analysis</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>10:00AM</start_time>
+       <end_time>10:50</end_time>
+   </time>
+   <place>
+       <building condition="4">VOLLUM</building>
+       <room>116</room>
+   </place>
+</course>
+
+<course id="106">
+   <reg_num>10325</reg_num>
+   <subj>ECON</subj>
+   <crse id="number">201</crse>
+   <sect>F02</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Intro to Economic Analysis</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>11:00AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building condition="5">VOLLUM</building>
+       <room>116</room>
+   </place>
+</course>
+
+<course id="107">
+   <reg_num>10326</reg_num>
+   <subj>ECON</subj>
+   <crse id="number">201</crse>
+   <sect>FL1</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">Intro to Economic Analysis</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>Th</days>
+   <time>
+       <start_time>03:10PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building condition="5">ELIOT</building>
+       <room>314</room>
+   </place>
+</course>
+
+<course id="108">
+   <reg_num>10327</reg_num>
+   <subj>ECON</subj>
+   <crse id="number">201</crse>
+   <sect>FL2</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">Intro to Economic Analysis</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>Th</days>
+   <time>
+       <start_time>04:10PM</start_time>
+       <end_time>05:00</end_time>
+   </time>
+   <place>
+       <building condition="5">ELIOT</building>
+       <room>314</room>
+   </place>
+</course>
+
+<course id="109">
+   <reg_num>20319</reg_num>
+   <subj>ECON</subj>
+   <crse id="number">201</crse>
+   <sect>S01</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">Intro to Economic Analysis</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>10:00AM</start_time>
+       <end_time>10:50</end_time>
+   </time>
+   <place>
+       <building condition="3">VOLLUM</building>
+       <room>116</room>
+   </place>
+</course>
+
+<course id="110">
+   <reg_num>20320</reg_num>
+   <subj>ECON</subj>
+   <crse id="number">201</crse>
+   <sect>S02</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">Intro to Economic Analysis</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>11:00AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building condition="4">VOLLUM</building>
+       <room>116</room>
+   </place>
+</course>
+
+<course id="111">
+   <reg_num>10578</reg_num>
+   <subj>ANTH</subj>
+   <crse id="number">211</crse>
+   <sect>F02</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">Introduction to Anthropology</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>02:30</end_time>
+   </time>
+   <place>
+       <building condition="1">VOLLUM</building>
+       <room>120</room>
+   </place>
+</course>
+
+<course id="112">
+   <reg_num>10583</reg_num>
+   <subj>ANTH</subj>
+   <crse id="number">378</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Nature, Cult  and Envirnmentalism</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T</days>
+   <time>
+       <start_time>07:10PM</start_time>
+       <end_time>10:00</end_time>
+   </time>
+   <place>
+       <building condition="3">ELIOT</building>
+       <room>414</room>
+   </place>
+</course>
+
+<course id="113">
+   <reg_num>20321</reg_num>
+   <subj>ECON</subj>
+   <crse id="number">201</crse>
+   <sect>SL1</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">Intro to Economic Analysis</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>Th</days>
+   <time>
+       <start_time>03:10PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building condition="5">ELIOT</building>
+       <room>314</room>
+   </place>
+</course>
+
+<course id="114">
+   <reg_num>20322</reg_num>
+   <subj>ECON</subj>
+   <crse id="number">201</crse>
+   <sect>SL2</sect>
+   <title descr="interesting in scale fm 1 to 5: 3">Intro to Economic Analysis</title>
+   <units>0.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>Th</days>
+   <time>
+       <start_time>04:10PM</start_time>
+       <end_time>05:00</end_time>
+   </time>
+   <place>
+       <building condition="2">ELIOT</building>
+       <room>314</room>
+   </place>
+</course>
+
+<course id="115">
+   <reg_num>10584</reg_num>
+   <subj>ECON</subj>
+   <crse id="number">311</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Survey of Econometric Methods</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>10:00AM</start_time>
+       <end_time>10:50</end_time>
+   </time>
+   <place>
+       <building condition="2">VOLLUM</building>
+       <room>120</room>
+   </place>
+</course>
+
+<course id="116">
+   <reg_num>20574</reg_num>
+   <subj>ECON</subj>
+   <crse id="number">312</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Theory and  Practice Econometrics</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>09:00AM</start_time>
+       <end_time>09:50</end_time>
+   </time>
+   <place>
+       <building condition="1">VOLLUM</building>
+       <room>116</room>
+   </place>
+</course>
+
+<course id="117">
+   <reg_num>10585</reg_num>
+   <subj>ECON</subj>
+   <crse id="number">313</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Microeconomic Theory</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>09:00AM</start_time>
+       <end_time>09:50</end_time>
+   </time>
+   <place>
+       <building condition="4">VOLLUM</building>
+       <room>234</room>
+   </place>
+</course>
+
+<course id="118">
+   <reg_num>20576</reg_num>
+   <subj>ECON</subj>
+   <crse id="number">314</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">Macroeconomic Theory</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>11:00AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building condition="4">VOLLUM</building>
+       <room>120</room>
+   </place>
+</course>
+
+<course id="119">
+   <reg_num>20580</reg_num>
+   <subj>ECON</subj>
+   <crse id="number">331</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">History of Economic Thought</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>02:00</end_time>
+   </time>
+   <place>
+       <building condition="1">VOLLUM</building>
+       <room>134</room>
+   </place>
+</course>
+
+<course id="120">
+   <reg_num>10587</reg_num>
+   <subj>ECON</subj>
+   <crse id="number">341</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Monetary and Fiscal Policy</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>02:30</end_time>
+   </time>
+   <place>
+       <building condition="4">VOLLUM</building>
+       <room>228</room>
+   </place>
+</course>
+
+<course id="121">
+   <reg_num>10589</reg_num>
+   <subj>ECON</subj>
+   <crse id="number">342</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">International Macroeconomics</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>02:00</end_time>
+   </time>
+   <place>
+       <building condition="4">VOLLUM</building>
+       <room>134</room>
+   </place>
+</course>
+
+<course id="122">
+   <reg_num>20585</reg_num>
+   <subj>ECON</subj>
+   <crse id="number">348</crse>
+   <sect>S</sect>
+   <title descr="interesting in scale fm 1 to 5: 5">Economics of the PublicSector</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>02:10PM</start_time>
+       <end_time>03:00</end_time>
+   </time>
+   <place>
+       <building condition="1">VOLLUM</building>
+       <room>116</room>
+   </place>
+</course>
+
+<course id="123">
+   <reg_num>10586</reg_num>
+   <subj>ANTH</subj>
+   <crse id="number">392</crse>
+   <sect>F01</sect>
+   <title descr="interesting in scale fm 1 to 5: 1">Structuralism and Semiotics</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>T-Th</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>02:30</end_time>
+   </time>
+   <place>
+       <building condition="5">VOLLUM</building>
+       <room>134</room>
+   </place>
+</course>
+
+<course id="124">
+   <reg_num>10590</reg_num>
+   <subj>ECON</subj>
+   <crse id="number">351</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 4">Environment  and  Nat Resrce Econ</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>02:10PM</start_time>
+       <end_time>03:00</end_time>
+   </time>
+   <place>
+       <building condition="5">VOLLUM</building>
+       <room>116</room>
+   </place>
+</course>
+
+<course id="125">
+   <reg_num>10591</reg_num>
+   <subj>ECON</subj>
+   <crse id="number">382</crse>
+   <sect>F</sect>
+   <title descr="interesting in scale fm 1 to 5: 2">Economics of Development</title>
+   <units>1.0</units>
+   <teacher>David Attenborough</teacher>
+   <days>M-W-F</days>
+   <time>
+       <start_time>11:00AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building condition="1">VOLLUM</building>
+       <room>234</room>
+   </place>
+</course>
+</root>

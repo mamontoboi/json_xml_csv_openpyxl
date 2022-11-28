@@ -1,0 +1,21 @@
+{
+    "first name": "Gustavus",
+    "last name": "Adolfus",
+    "country": "Sweden",
+    "occupation": [
+        "king",
+        "general"
+    ],
+    "alias": "the Lion of the North"
+}
+==============================
+{
+    "first name": "Armand",
+    "last name": "Richelieu",
+    "country": "France",
+    "occupation": [
+        "cardinal",
+        "first minister"
+    ],
+    "alias": "the Red Eminence"
+}
